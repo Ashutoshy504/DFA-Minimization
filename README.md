@@ -38,7 +38,7 @@ The output is analogous. Remember that the state numbers of the reduced FSM have
  3 a 1<br />
  3 b 2<br />
  
- ### Make and run
+### Make and run
  
 This program can be compiled using gcc and does not require any third party libraries.
  
